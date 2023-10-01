@@ -14,7 +14,7 @@
     
 ### 📚 Description
 
-This boilerplate is made to quickly prototype backend applications. It comes with database, logging, security, and authentication features out of the box.
+This boilerplate is made to quickly prototype a multi-tenant backend applications. It comes with database, logging, security, and authentication features out of the box.
 
 ---
 
